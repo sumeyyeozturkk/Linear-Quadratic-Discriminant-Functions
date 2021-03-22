@@ -5,10 +5,10 @@ There are linear and quadratic discriminant classifier functions from scratch
 # Question 1
 
 Examine the data.
-• The number of features, the number of classes and their probabilities P(Ci).
-• Plot the data in a scatter plot using different colors for each class.
-• Partition the data into training (80%) and evaluation set (20%) randomly.
-• Compute the mean vector and covariance matrix for each class from the training set.
+* The number of features, the number of classes and their probabilities P(Ci).
+* Plot the data in a scatter plot using different colors for each class.
+* Partition the data into training (80%) and evaluation set (20%) randomly.
+* Compute the mean vector and covariance matrix for each class from the training set.
 
 # Question 2
 
